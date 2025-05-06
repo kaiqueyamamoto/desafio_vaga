@@ -90,10 +90,10 @@ Seu objetivo é criar um projeto usando NextJS com Typescript, fazer upload do a
 
 Tela de dashboard, com:
 
-- [ ] botão com upload do arquivo TXT;
+- [x] botão com upload do arquivo TXT;
 
-- [ ] tabela com a listagem de transações paginada, ordenada pela data da transação;
-- [ ] Filtros de busca para listagem, com por exemplo: por nome e/ou range de data da transação;
+- [x] tabela com a listagem de transações paginada, ordenada pela data da transação;
+- [x] Filtros de busca para listagem, com por exemplo: por nome e/ou range de data da transação;
 
   
 
@@ -115,16 +115,17 @@ Fique a vontade para usar alguma lib que auxilie no layout.
 
   
 
-- [ ] Cadastrar o cliente no banco de dados, caso não exista;
+- [x] Cadastrar o cliente no banco de dados, caso não exista;
 
   
 
-- [ ] Cadastrar a transação relacionada ao cliente;
+- [x] Cadastrar a transação relacionada ao cliente;
 
    
 
-- [ ] Não deixar duplicar a transação, caso ela já exista na base;
-- [ ] Calcule o tempo da execução da leitura completa do arquivo.
+- [x] Não deixar duplicar a transação, caso ela já exista na base;
+
+- [x] Calcule o tempo da execução da leitura completa do arquivo.
 
   
 
@@ -132,8 +133,8 @@ Fique a vontade para usar alguma lib que auxilie no layout.
 
   
 
-- [ ] Preferencialmente, faça a paginação para o frontend direto na consulta;
-- [ ] Aplique os filtros de buscas;
+- [x] Preferencialmente, faça a paginação para o frontend direto na consulta;
+- [x] Aplique os filtros de buscas;
   
 
 #### Avaliação
@@ -161,7 +162,6 @@ Seu projeto será avaliado de acordo com os seguintes critérios:
 4. Seu conhecimento geral sobre a stack MERN.
 
   
-
   
 
 Boa sorte!
